@@ -1,0 +1,46 @@
+html, body {
+ 	width: 100%;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+body {
+  	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	background-color: #51E7C8;
+	text-align: center;
+}
+
+h2 {
+	background-color: #FFF;
+	text-align: center;
+}
+
+h4 {
+	background-color: #9FF1AF; 
+}
+
+article {
+	text-align: center;
+}
+
+footer {
+	background-color: #9FF1E1;
+	text-align: center;
+	border: medium; 
+}
+
+.list {
+    text-align: left;
+}
+
+.tale-details {
+	text-align: left;
+	color: #0C5748;
+}
+
+#para {
+	text-align: left;
+}
